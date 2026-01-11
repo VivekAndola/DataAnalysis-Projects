@@ -37,13 +37,6 @@ Each notebook is a self-contained analysis. Typical notebook sections:
 - Results & conclusions
 - Next steps
 
-If you want, open an issue or request and I can generate a list of notebooks and insert it here.
-
-Data
-- Small datasets may be included under data/.
-- Large or proprietary datasets should remain external; include a README or notebook cell indicating how to download or access those datasets.
-- Do not commit sensitive information or private data.
-
 Requirements
 Recommended Python packages (example):
 - Python 3.8+
@@ -102,17 +95,8 @@ Best practices for notebooks
 - Use clear markdown cells to explain steps and results.
 - Break long computations into scripts if needed and call them from notebooks.
 
-Contributing
-Contributions welcome.
-- Open an issue to discuss ideas, datasets, or new analyses.
-- Create a branch, add/modify notebooks and any required environment files, and open a pull request.
-- Include a short description of changes and which notebook(s) are affected.
-
-License
-Add a LICENSE file to this repository to make the license explicit. A common choice is the MIT License. If you want, I can add a LICENSE file for you.
-
 Contact
-Maintained by VivekAndola (they/them) — https://github.com/VivekAndola
+Maintained by VivekAndola — https://github.com/VivekAndola
 
 Acknowledgements
 If you reuse these analyses in publications or projects, please cite the repository and include a link.
